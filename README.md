@@ -70,8 +70,8 @@
             <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
         </div>
     </section>
-    <footer>
+<!--     <footer>
         <p>&copy; 2025 Portofolio Saya</p>
-    </footer>
+    </footer> -->
 </body>
 </html>
