@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -22,6 +23,16 @@
             width: 80%;
             margin: auto;
         }
+        .profile {
+            text-align: center;
+            padding: 20px;
+        }
+        .profile img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
         .project {
             border: 1px solid #ddd;
             padding: 10px;
@@ -41,6 +52,13 @@
     <header>
         <h1>My Portofolio</h1>
     </header>
+    <section id="profile">
+        <div class="container profile">
+            <img src="img/profilephoto.jpg" alt="Foto Profil">
+            <h2>Ni Made Deni Sikiandani</h2>
+            <p>Information Technology Udayana University</p>
+        </div>
+    </section>
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
@@ -71,8 +89,5 @@ team.</p>
             <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
         </div>
     </section>
-<!--     <footer>
-        <p>&copy; 2025 Portofolio Saya</p>
-    </footer> -->
 </body>
 </html>
