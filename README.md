@@ -54,7 +54,7 @@
     </header>
     <section id="profile">
         <div class="container profile">
-            <img src="img/profilephoto.jpg" alt="Foto Profil">
+            <img src="img/profilephoto.png" alt="Foto Profil">
             <h2>Ni Made Deni Sikiandani</h2>
             <p>Information Technology Udayana University</p>
         </div>
