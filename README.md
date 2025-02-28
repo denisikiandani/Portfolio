@@ -84,8 +84,8 @@ team.</p>
     <section id="contact">
         <div class="container">
             <h2>Kontak</h2>
-            <p>Email: contoh@email.com</p>
-            <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+            <p>Email: denisikiandani35@gmail.com</p>
+            <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/denisikiandani</a></p>
         </div>
     </section>
 </body>
