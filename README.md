@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portofolio Saya</title>
+    <title>My Portofolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,17 +39,19 @@
 </head>
 <body>
     <header>
-        <h1>Portofolio Saya</h1>
+        <h1>My Portofolio</h1>
     </header>
     <section id="about">
         <div class="container">
-            <h2>Tentang Saya</h2>
-            <p>Halo! Saya seorang pengembang yang tertarik dengan data science dan pengembangan backend.</p>
+            <h2>About Me</h2>
+            <p>A final-year student at Udayana University with an interest in artificial intelligence, data science, and cloud computing. Have good skills in 
+using Ms Office and familiar with processing data with various software. Able to adapt to new environment and can work together with the 
+team.</p>
         </div>
     </section>
     <section id="projects">
         <div class="container">
-            <h2>Proyek Saya</h2>
+            <h2>My Projects</h2>
             <div class="project">
                 <h3>Proyek 1</h3>
                 <p>Deskripsi singkat proyek.</p>
